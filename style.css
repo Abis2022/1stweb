@@ -1,0 +1,174 @@
+body {
+  color: #05cbd6;
+  margin: 0;
+  text-align: center;
+  font-family: "Montserrat", "Sacramento";
+}
+
+h1 {
+  color: #a8d5fc;
+  font-size: 100px;
+  margin: 50px auto 0 auto;
+  font-family: "Sacramento";
+  font-weight: normal;
+}
+
+h2 {
+  color: #7cd1f3;
+  font-family: "Montserrat", sans-serif;
+  font-size: 3rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #a1cef8;
+  font-family: "Montserrat", sans-serif;
+}
+
+p {
+  line-height: 2;
+  font-size: large;
+  color: #025468d0;
+}
+
+hr {
+  border: dotted #bbe4eb 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 75px auto;
+}
+
+a {
+  color: #1bc3dd;
+  font-family: "Montserrat", sans-serif;
+  margin: 100px 60px;
+  text-decoration: none;
+  font-size: large;
+}
+
+a:hover {
+  color: #c2f4f4;
+}
+.mountain {
+  background-color: #eaf6f6;
+}
+
+.top-container {
+  background-image: -webkit-image-set(assets/mountain-png.png);
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: 5px auto;
+  width: 100%;
+  border-radius: 2%;
+}
+
+.bottom-container {
+  background-color: #5cf3d0f1;
+  width: 100%;
+  margin: 25px 0;
+  padding: 75px 0 40px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.pro {
+  text-decoration: underline;
+}
+.contact-message {
+  width: 40%;
+  margin: 50px auto;
+  font-size: x-large;
+  color: #98f1f5;
+}
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.contact-message {
+  color: rgba(151, 166, 180, 0.911);
+  width: 31%;
+  margin: 40px auto 60px;
+}
+
+.copyright {
+  color: #eaf6f6;
+  font-size: 1.5rem;
+  padding: 20px 0;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 150px;
+  top: 100px;
+}
+.c {
+  font-family: "Merriweather,Montserrat,Sacramento";
+  font-size: 75px;
+  width: 100%;
+  margin: 30px auto;
+  position:relative
+  top: 50px;
+}
+
+.H {
+  font-size: 75px;
+  font-weight: lighter;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 100px;
+  bottom: 250px;
+}
+
+.code-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.chilli-img {
+  width: 15%;
+  float: right;
+  margin-left: 30px;
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: "Montserrat", sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+.prg {
+  margin: 45px auto;
+  width: 50%;
+}
