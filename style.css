@@ -1,5 +1,5 @@
 body {
-  color: #05cbd6;
+  background color: #05cbd6;
   margin: 0;
   text-align: center;
   font-family: "Montserrat", "Sacramento";
@@ -56,21 +56,20 @@ a:hover {
 
 .top-container {
   background-image: -webkit-image-set(assets/mountain-png.png);
-  position: relative;
   padding-top: 100px;
 }
 
 .middle-container {
   margin: 5px auto;
   width: 100%;
-  border-radius: 2%;
+  
 }
 
 .bottom-container {
   background-color: #5cf3d0f1;
   width: 100%;
   margin: 25px 0;
-  padding: 75px 0 40px;
+  padding: 50px 0 40px 0;
 }
 
 .skill-row {
@@ -91,6 +90,7 @@ a:hover {
 .intro {
   width: 30%;
   margin: auto;
+  border-radius: 100px;ss
 }
 
 .contact-message {
@@ -100,8 +100,8 @@ a:hover {
 }
 
 .copyright {
-  color: #eaf6f6;
-  font-size: 1.5rem;
+  color: #f3f7f7;
+  font-size: 0.9rem;
   padding: 20px 0;
 }
 
@@ -172,4 +172,5 @@ a:hover {
 .prg {
   margin: 45px auto;
   width: 50%;
+  border-radius: 100%;
 }
